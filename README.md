@@ -8,7 +8,6 @@ The first project covers 3 parts:
 2. **probabilistic model and regularization**: addressed the learning task example (regression) - polynomial curve fitting formulated in a probabilistic framework.
 3. **Text classifications**: I adopt the [Character RNN for classification](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html) to a different dataset.
 
-the second project covers:
-1. **document classification**
-2. **sequence classification**
-3. **named entity recognition and word embeddings**
+the second project covers topics of syntactic parsing:
+1. **Learning a PCFG from a Treebank**
+2. **Building and Evaluating a PCFG Parser**
