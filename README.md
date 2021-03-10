@@ -1,5 +1,6 @@
 # Natural-Language-Processing
-> Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.
+> Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.[read more](https://en.wikipedia.org/wiki/Natural_language_processing)
+
 
 This repository contains two projects from my [NLP](https://www.cs.bgu.ac.il/~elhadad/nlp21.html) course.\
 The first project covers 3 parts:
